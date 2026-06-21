@@ -1,4 +1,4 @@
 
-<p align="center">
+<p>
  Hey! 👋🏼 I'm Hicran
 </p>
