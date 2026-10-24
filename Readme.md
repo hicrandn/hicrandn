@@ -1,6 +1,6 @@
+<h3>Hey! 👋🏼 I'm Hicran.</h3>
 
 <p>
-Hey! 👋🏼 I’m Hicran.
-I started on the frontend and fell in love with making things feel good on screen.
-Lately I’ve been diving deep into AI and building things around it.
+I started on the frontend and fell in love with making things feel good on screen.<br>
+Lately I've been diving deep into AI and building things around it.
 </p>
